@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Levels/Level3.umap",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Levels/_GENERATED/alexz/Stairs_893429F1.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Blueprints/BP_PortalPlace.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Levels/Level2.umap",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Blueprints/BP_Door.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Blueprints/BP_PortalBlock.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Materials/M_PrototypeGridBlock.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Blueprints/BP_Cube.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/MyStuff/Blueprints/BP_Portal.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Unreal Projects/Portal Game 5.4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Portal Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Portal Game/Content/MyStuff/Levels/Level2.umap",
+				"C:/Users/alexz/OneDrive/Desktop/Portal Game 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alexz/OneDrive/Desktop/Portal Game 5.4/Content/MyStuff/Levels/Level3.umap"
+			]
+		}
+	]
+}
